@@ -345,7 +345,6 @@ a img.aligncenter {
 
 .main-banner{
 	height: auto;
-	max-width: 100%;
 	position: relative;
 }
 
@@ -353,8 +352,6 @@ a img.aligncenter {
 	display: table;
     	width: 100%;
 	text-align: center;
-	background-size:contain;
-	background-position:center;
 }
 .main-banner::after {
     content: " ";

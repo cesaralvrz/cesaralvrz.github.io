@@ -344,7 +344,8 @@ a img.aligncenter {
 -------------------------------------------------------------------*/
 
 .main-banner{
-	height: 100%;
+	height: auto;
+	max-width: 100%;
 	position: relative;
 	background-size:contain;
 	background-position:center;

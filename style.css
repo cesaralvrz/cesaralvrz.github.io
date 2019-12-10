@@ -345,15 +345,16 @@ a img.aligncenter {
 
 .main-banner{
 	height: auto;
-	max-width: 800px;
-	background-size:contain;
-	background-position:center;
+	max-width: 100%;
+	position: relative;
 }
 
 .main-banner{
 	display: table;
     	width: 100%;
 	text-align: center;
+	background-size:contain;
+	background-position:center;
 }
 .main-banner::after {
     content: " ";

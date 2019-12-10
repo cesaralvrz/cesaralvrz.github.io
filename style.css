@@ -346,11 +346,13 @@ a img.aligncenter {
 .main-banner{
 	height: 100%;
 	position: relative;
+	background-size:contain;
+	background-position:center;
 }
 
 .main-banner{
 	display: table;
-    width: 100%;
+    	width: 100%;
 	text-align: center;
 }
 .main-banner::after {

@@ -103,6 +103,11 @@
 	#mainNav {
 		background-color: #333333;
 	}
+	.main-banner parallaxie{
+		display: block;
+    		max-width: 100%;
+   		height: auto;
+	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
 	}

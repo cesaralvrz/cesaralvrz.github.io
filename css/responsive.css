@@ -55,6 +55,18 @@
 	#mainNav {
 		background-color: #333333;
 	}
+	.main-banner{
+		    background-image: url('uploads/banner-01.jpg');   
+		    background-repeat:no-repeat;
+		    background-size:100% 100%;
+		    background-position:center center;
+	    }
+	.main-banner parallaxie{
+		    background-image: url('uploads/banner-01.jpg');   
+		    background-repeat:no-repeat;
+		    background-size:100% 100%;
+		    background-position:center center;
+	    }
 	.navbar-dark .navbar-brand{
 		width: 55%;
 	}
@@ -103,11 +115,18 @@
 	#mainNav {
 		background-color: #333333;
 	}
+	.main-banner{
+		    background-image: url('uploads/banner-01.jpg');   
+		    background-repeat:no-repeat;
+		    background-size:100% 100%;
+		    background-position:center center;
+	    }
 	.main-banner parallaxie{
-		display: block;
-    		max-width: 100%;
-   		height: auto;
-	}
+		    background-image: url('uploads/banner-01.jpg');   
+		    background-repeat:no-repeat;
+		    background-size:100% 100%;
+		    background-position:center center;
+	    }
 	.navbar-dark .navbar-brand{
 		width: 55%;
 	}
